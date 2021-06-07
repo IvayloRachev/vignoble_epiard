@@ -1,0 +1,56 @@
+/*tittre*/
+h1{
+    text-align: center;
+    font-size: 250%;
+}
+/*partie 1*/
+.turing{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.biographie{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 120%;
+    text-align: justify;
+
+}
+
+.img1{
+    width: 100%;
+    height: auto;
+
+}
+
+.img_turing{
+    width: 40%;
+    
+}
+
+.biog{
+    width: 55%;
+}
+/*fin de partie 1*/
+
+/*partie 2*/
+.p_ses_etudes{
+    font-size: 110%;
+    text-align: justify;
+}
+/*fin de partie 2*/
+
+/*partie 3*/
+.p_crypt{
+    font-size: 110%;
+    text-align: justify;
+}
+/*fin de partie 3*/
+
+/*partie 4*/
+.p_test{
+    font-size: 110%;
+    text-align: justify;
+}
